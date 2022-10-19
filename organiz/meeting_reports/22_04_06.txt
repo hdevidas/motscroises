@@ -1,0 +1,11 @@
+Compte rendu du 06/04/22:
+---------------------------------
+
+Durant cette nouvelle séance de TD, nous avons pu présenter notre avancée concernant le rapport, mais aussi
+le coeur algorithmique. Aussi, nous avons présenté une première version du diaporama que nous avons commencé
+à préparer pour l'oral de la semaine suivante. Nous devons modifier quelques diapositives, mais dans l'ensemble
+ça semble convenable. 
+
+Par ailleurs, nous nous interrogions sur la nature des tests à fournir, c'est maintenant plus clair, nous allons 
+faire des tests sur des grilles vides, notamment, ce qui est manquant dans notre implémentation car nous ne le proposons
+pas à l'utilisateur.

@@ -1,0 +1,7 @@
+Compte rendu du 09/03/22:
+---------------------------------
+
+Ce TD a été consacré à la présentation d'une version améliorée du cahier des besoins concernant l'application que nous développons. Il en est ressorti qu'il y a un grand manque sur la partie algorithmique. En effet, le document ci-présent est trop axé "front", il manque la partie "back", sur laquelle il va être important de rapidement se concentrer. Les maquettes sont pertinentes, mais il vaut mieux les associer à chacun des besoins, plutôt que de toutes les mettre à la fin du document.
+
+Des points sur le diagramme des cas d'utilisation sont à revoir, comme par exemple l'association de verbes à chacun des besoins. 
+La synthèse sur les articles présents est un bon point, mais est insuffisante en l'état, il s'agit de développer les principaux concepts (forward jumping, arc consistency...) ultérieurement.

@@ -1,0 +1,8 @@
+Compte rendu du 23/03/22:
+---------------------------------
+
+Nous avons présenté l'avancée du projet, à savoir principalement l'implémentation. Les classes présentées concernent la création d'une grille vide, et la classe encapsulant l'algorithme d'encodage de la base de données en binaire. Tout cela fonctionne correctement. Ensuite, nous avons présenté notre idée de créations de "pattern" de grille, qui consiste en un placement arbitraire de "cases noires" selon des patterns pré-définis. Cette façon de faire ayant été validée, nous allons nous occuper de la développer d'ici au TD suivant. 
+
+Il nous faut également nous concentrer sur la mise à jour régulière du cahier des besoins, en fonction de l'implémentation du code. 
+
+D'ici à la semaine suivante, en plus de régler les points évoqués précédemment, nous allons nous occuper de finaliser la "base" du code afin de pouvoir rapidement nous focaliser sur l'algorithme principal de recherches de mots.

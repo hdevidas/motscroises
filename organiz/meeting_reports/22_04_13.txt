@@ -1,0 +1,7 @@
+Compte rendu du 13/04/22 :
+---------------------------------
+
+Ce jour a eu lieu l'oral. Nous avons présenté notre application et durant cette présentation nous avons avancé
+le fait que notre algorithme n'arrivait pas à résoudre des grilles de 6 x 6 vides en une nuit. Cela a étonné le jury
+qui nous a demandé d'aller chercher plus loin dans ce sens et d'essayer soit d'expliquer pourquoi, soit de le résoudre.
+C'est ce que nous allons faire durant ces derniers jours avant le rendu du projet.

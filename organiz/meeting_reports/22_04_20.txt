@@ -1,0 +1,11 @@
+Durant ce dernier TD nous avons principalement discuté du plan du mémoire à produire. 
+Notre chargée de TD nous a conseillé de rassembler les documents produits précédemment et de rajouter ensuite une présentation de l'application produite à l'aide de captures d'écran.
+Il n'est cependant pas nécessaire de modifier les documents individuels car seul le mémoire sera noté. Nous lui avons montré notre plan actuel qui lui a semblé cohérent.
+
+De plus, notre code sera également noté nous devons donc nous assurer que tout est clair et bien nommé. De ce côté, il ne nous reste qu'à peaufiner quelques détails avant de pouvoir nous consacrer totalement au mémoire. 
+
+Nous avons ensuite présenté les tests que nous avons réalisé notamment sur des grilles avec et sans cases noires et en changeant de base de données.
+Nous avons testé les limites de notre application qui arrive à résoudre des grilles allant jusqu'à une taille de 100x100. 
+Nous étudions les temps d'exécution en moyenne sur une dizaine d'essais.
+
+Enfin, Madame Larbi est globalement satisfaite de notre groupe ainsi que du travail fourni tout au long du projet.

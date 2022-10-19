@@ -1,0 +1,6 @@
+Compte rendu du 16/03/22:
+---------------------------------
+
+Durant cette nouvelle semaine, nous nous sommes affairés à l'amélioration du cahier des besoins, en prenant soin de tenir compte des remarques effectuées précédemment (cf compte rendu 09/03/22). Les commentaires résultants de cette nouvelle itération sont positifs, modulo le fait que la partie algorithmique est encore un peu floue. 
+
+Par ailleurs, il est important de cloisonner les différentes parties (système etc) dans le diagramme des cas d'utilisation. L'algorithme de remplissage des mots doit être englobé (appelé) dans une autre fonction. Il est également important de réfléchir à toutes les contraintes pour trouver un mot, et donc le placer dans la grille. L'encodage de la base de données est pertinent. Nous allons ainsi nous consacrer durant les jours à venir sur le début de l'implémentation du code.

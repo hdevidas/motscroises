@@ -1,0 +1,10 @@
+Compte rendu du 30/03/22:
+---------------------------------
+
+Ce nouveau point hebdomadaire avec Madame Wahiba Larbi nous a permis de présenter l'avancée de notre implémentation. Deux points principaux ont avancé depuis la semaine passée : 
+
+- avancée de l'interface graphique, avec l'API Qt (installation testée sur Windows + Linux) : la grille se charge et s'affiche correctement et il est désormais possible d'écrire sur la grille. Les prochaines étapes consisteront en la réalisation des actions utilisateurs afin qu'il puisse jouer.
+
+- avancée de l'implémentation de l'algorithme principal : désormais, chaque variable possède son propre domaine (mots avec lesquels elle peut s'intersecter). Nous utilisons le principe de Forward Checking tel que décrit dans le pdf. Les premiers résultats de l’algorithme sont encourageants, nous poursuivrons dans ce sens. 
+
+Le rapport n'est pas encore tout à fait en adéquation avec l'implémentation, notamment au niveau du diagramme de classes, qui sera à revoir.  Il y a également une confusion entre les termes champs et case, qu'il faudra éclaircir.

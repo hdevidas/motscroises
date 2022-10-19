@@ -1,0 +1,11 @@
+Durant ce premier TD avec Madame Wahiba Larbi-Mezeghrane, nous avons présenté la première version de notre cahier des besoins. Nous avons discuté de la cohérence globale de ce dernier et il en ressorti les points suivants : 
+
+- Diagramme des cas d'utilisation : revoir certains points qui manquent un peu de cohérence notamment dans la gestion des "aides". 
+
+- Cahier des besoins axé sur l'interface graphique : nous parlons exclusivement des besoins graphiques, sans parler de l'implémentation algorithmique. Nécessité de se mettre au point sur les algorithmes utilisés, et sur les diverses technologies à employer.
+
+- Lexique : changer le mot "Conclusion" par "Synthèse" dans la partie sur l'existant car une conclusion arrive plutôt en fin de document
+
+- Analyse de l'existant : structurer l'existant  en conservant uniquement les logiciels qui sont différents. Conclure en stipulant ce que l'on souhaite garder, ce que l'on souhaite modifier et ce qui ne nous convient pas.
+
+- Tests : les associer directement aux besoins, les placer sous chaque besoin
